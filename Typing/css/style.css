@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+input {
+    font-size: 24px;
+    padding: 5%;
+}
+
+h4 {
+    font-size: 24px;
+    span:nth-of-type(1) {
+        color: rgba(98, 0, 255, 0.936);
+        background-color: rgba(0, 0, 0, 0.12);
+    }
+}
+
+h5 {
+    font-size: 24px;
+    span:nth-of-type(1) {
+        color: rgba(98, 0, 255, 0.936);
+        background-color: rgba(0, 0, 0, 0.12);
+    }
+}
+
+/* h4{
+    color: transparent;
+	background: repeating-linear-gradient(
+		90deg,
+		#2C7CFF 0 1em,
+		#7B3CFF 1em 2em,
+		#FF1A6F 2em 3em,
+		#FF570D 3em 4em,
+		#BEFF15 4em 5em,
+		#13EEFF 5em 6em
+	);
+	background-clip: text;
+} */
